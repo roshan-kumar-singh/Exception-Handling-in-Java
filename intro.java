@@ -7,7 +7,8 @@ public class intro {
             c = a / b;
             System.out.println("Result is "+c);
         } catch (ArithmeticException roshan) {
-            System.out.println("Division by zero "+roshan);
+            System.out.println("Checking the network cables, modem, and router\n" +
+                    "Reconnecting to Wi-Fi ");
         }
     }
 }
